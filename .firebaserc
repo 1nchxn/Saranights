@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "default": "saranights-client",
+    "dist": "saranights-client"
+  },
+  "targets": {},
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
+}
