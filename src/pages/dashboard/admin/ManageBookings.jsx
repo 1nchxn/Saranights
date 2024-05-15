@@ -94,7 +94,7 @@ const ManageBookings = () => {
                   <td>{index + 1}</td>
                   <td>{item.email}</td>
                   <td>{item.transitionId}</td>
-                  <td>${item.price}</td>
+                  <td>₱{item.price}</td>
                   <td>{item.status}</td>
                   <td className="text-center">
                     {item.status === "confirmed" ? (
